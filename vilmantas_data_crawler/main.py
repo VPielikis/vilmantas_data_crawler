@@ -3,6 +3,7 @@ from queue import Queue
 from lxml.etree import HTML
 from requests import get
 from threading import Lock
+#veikianti versija
 
 # Global variables
 visited_pages = set()
